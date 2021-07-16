@@ -17,6 +17,7 @@ function App() {
       posterUrl:
         "https://lumiere-a.akamaihd.net/v1/images/image_2ff75a5c.jpeg?region=0%2C0%2C540%2C810",
       rate: "3",
+      brief:"https://youtu.be/RA4s_BgzFII",
     },
     {
       title: "Onward",
@@ -25,6 +26,7 @@ function App() {
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/91X-d7oq8jL.jpg",
       rate: "4",
+      brief:"https://youtu.be/XRF6uuubGcI",
     },
     {
       title: "Frozen 2",
@@ -33,6 +35,7 @@ function App() {
       posterUrl:
         "https://lumiere-a.akamaihd.net/v1/images/image_bf2c13ad.jpeg?region=0%2C0%2C540%2C810",
       rate: "5",
+      brief:"https://youtu.be/Zi4LMpSDccc",
     },
     {
       title: "Toy Story 4",
@@ -41,6 +44,8 @@ function App() {
       posterUrl:
         "https://lumiere-a.akamaihd.net/v1/images/image_ffefe4c8.jpeg?region=0%2C0%2C540%2C810",
       rate: "4",
+      
+      brief:"https://youtu.be/wmiIUN-7qhE",
     },
   ]);
   return (
